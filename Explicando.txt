@@ -1,0 +1,24 @@
+Olá, tudo bom?
+
+vou explicar como funciona o código aqui caso seja necessário
+
+- ok , primeiramente caso você não consiga abrir com o NetBeans , tente rodar com o VSCODE que foi aonde a maior parte do código foi feito.
+
+- Utilize o banco de dados javacrud.sql que está junto com esse arquivo , para a implementação no banco de dados.
+
+- eu adicionei uma biblioteca do mysql pelo NetBeans e não sei se eserá necessário adicionar denovo.
+
+- Eu utilizei o PhpMyAdmin para fazer o código, aqui está rodando direitinho.
+
+- caso não consiga rodar, eu posso fazer um video demonstrando o código.
+
+    O sistema consiste em um CRUD principal para adicionar produtos com as opções de adicionar , deletar , atualizar e pesquisar por ID
+    esse CRUD principal tambem tem botões que levam para os outros 3 CRUDs adicionais.
+    - o de cliente
+    - o de Reclamações 
+    - e o de categorias 
+
+    para deletar ou atualizar nesses CRUDs adicionais você precisará clicar emcima do item que você deseja realizar as ações.
+
+
+- Victor 
